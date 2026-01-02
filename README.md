@@ -1,5 +1,3 @@
-
-# 💫 About Me:
 👋 About Me<br><br>🎓 Data Scientist | Cybersecurity Master’s Student (Part-Time)<br>📍 Nairobi, Kenya — USIU-Africa<br><br>I’m a data scientist with a strong interest in applying data-driven approaches to real-world problems, <br>particularly at the intersection of data science, AI, and cybersecurity. <br>Alongside industry work and projects, I’m currently pursuing a Master’s degree in Cybersecurity <br>at United States International University-Africa, where I’m deepening my understanding of secure systems, risk, and emerging threats.
 
 
